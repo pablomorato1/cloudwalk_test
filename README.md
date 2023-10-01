@@ -6,14 +6,10 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
+ruby-3.0.0
 
 * Database creation
-
-* Database initialization
+rails db:create db:migrate
 
 * How to run the test suite
 
